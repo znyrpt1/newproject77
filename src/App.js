@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          wer Learn React with fds redux sad
+          wer Learn asd React with fds redux sad
         </a>
       </header>
     </div>
